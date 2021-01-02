@@ -1,9 +1,9 @@
 ---
 title: "Disinfection_robot"
 date: 2021-01-01
----
-title: disinfection robot
-author: bobobibo
+
+#title: disinfection robot
+#author: bobobibo
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   disinfection robot project mcMaster university
@@ -17,3 +17,4 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---
