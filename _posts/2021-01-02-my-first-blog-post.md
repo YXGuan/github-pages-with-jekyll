@@ -1,1 +1,4 @@
-blog for McMaster disinfection robot
+---
+title: "Disinfection"
+date: 2021-06-21
+---
