@@ -1,10 +1,21 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
-
-
-
-
--new
-[]asdfasdf
-*love
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+  <body>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/blog/">Blog</a>
+    </nav>
+    <h1>{{ page.title }}</h1>
+    <section>
+      {{ content }}
+    </section>
+    <footer>
+      &copy; to me
+    </footer>
+  </body>
+</html>
